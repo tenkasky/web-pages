@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://tenkasky.github.io/sitemap.xml
